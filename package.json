@@ -1,6 +1,6 @@
 {
   "name": "datetime-2-english",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "convert a date object into a verbose English sentence",
   "main": "datetime-2-english.js",
   "dependencies": {
