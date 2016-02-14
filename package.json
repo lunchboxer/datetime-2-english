@@ -1,0 +1,15 @@
+{
+  "name": "datetime-2-english",
+  "version": "0.0.1",
+  "description": "convert a date object into a verbose English sentence",
+  "main": "datetime-2-english.js",
+  "dependencies": {
+    "number-to-words": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Smith",
+  "license": "MIT"
+}
