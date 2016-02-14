@@ -13,4 +13,4 @@ var datestring = converter(d)
 
 console.log(datestring)
 ```
-Should produce output like `It's twenty-four minutes past six in the evening on Sunday, February fourteenth, in the year twenty sixteen.`
+Should produce output like `twenty-four minutes past six in the evening on Sunday, February fourteenth, in the year twenty sixteen`.
