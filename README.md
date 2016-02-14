@@ -1,8 +1,8 @@
 # datetime-2-english
 
-This module produces a complete English sentence in which all numbers have been converted to words.
+This node/js module produces a complete English sentence in which all numbers have been converted to words.
 
-It exports a single function which takes a date object as it's single parameter.
+It exports a single function which takes a date object as its single parameter.
 
 ## Usage
 
