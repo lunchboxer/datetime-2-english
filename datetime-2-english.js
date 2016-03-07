@@ -40,6 +40,7 @@ var EnglishTime = function(datetime) {
       prep = "past"
     } else {
       prep = "to"
+      hours += 1
     }
     if (minutes > 30) {
       minutes = 60 - minutes
